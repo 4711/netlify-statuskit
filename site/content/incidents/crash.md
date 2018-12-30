@@ -5,7 +5,7 @@ severity = "major-outage"
 affectedsystems = [
   "Booking"
 ]
-resolved = false
+resolved = true
 +++
 
 The system is **not** running anymore
