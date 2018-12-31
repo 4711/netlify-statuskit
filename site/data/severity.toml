@@ -6,7 +6,7 @@
   major-outage = "Major outage"
 
 [alerts]
-  ok = "ok"
+  ok = "güet"
   under-maintenance = "warning"
   degraded-performance = "warning"
   partial-outage = "warning"
